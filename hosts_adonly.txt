@@ -1,6 +1,6 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 06 May 2013 12:34 UTC
+# Last modified: 06 May 2013 13:42 UTC
 #
 0.0.0.0 a.adimg.net
 0.0.0.0 a.iogous.com
@@ -14,9 +14,12 @@
 0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 amazoo.longseller.org
+0.0.0.0 api.ad-stir.com
 0.0.0.0 api.unthem.com
 0.0.0.0 as.a.bypass.jp
+0.0.0.0 d.amoad.com
 0.0.0.0 d.href.asia
+0.0.0.0 dist.ad-stir.com
 0.0.0.0 ds.advg.jp
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 h.accesstrade.net
@@ -49,4 +52,4 @@
 0.0.0.0 track.bannerbridge.net
 0.0.0.0 www.assoc-amazon.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
-# total: 47
+# total: 50
