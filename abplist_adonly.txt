@@ -1,0 +1,66 @@
+[Adblock Plus 1.1]
+! Homepage: http://gmbk0.tumblr.com/
+! Last modified: 06 May 2013 12:34 UTC
+! Expires: 4 days
+! Title: gmbk'sスマホ用フィルタ
+!
+/[\/_](?:sp)?ad(?:s|v[ert]*)?[\/_.-]/
+##.ad
+##.ads
+##.spads
+##.plugin-ad
+##.google-user-ad
+###category-ad
+||adlayout.net^
+||umeng.com^
+||umeng.co^
+||medibaad.com^
+||affiliate.rakuten.co.jp^
+||nend.net^
+||i-mobile.co.jp^
+||accesstrade.net^
+||microad.jp^
+||adingo.jp^
+||fout.jp^
+||impact-ad.jp^
+||revsci.net^
+||iogous.com^
+||gmossp-sp.jp^
+||searchteria.co.jp^
+||advg.jp^
+||kau.li^
+||bannerbridge.net^
+||ad-stir.com^
+||a8.net^
+||sprout-ad.com^
+||adplatform.jp^
+||media-b.jp^
+||afl.rakuten.co.jp^
+||rcm-jp.amazon.co.jp^
+||assoc-amazon.jp^
+||adlantis.jp^
+||ov.yahoo.co.jp^
+||bypass.jp^
+||href.asia^
+||a.adimg.net^
+||unthem.com^
+||mcgate.jp^
+||red.st-hatena.com/ad^
+||ai.yimg.jp/bdv/yahoo/javascript/
+||yjaxc.yahoo.co.jp/oi^
+||ai.yimg.jp/images/listing/tool/crocos/crocos_ytop.js^
+||adingo.jp.eimg.jp^
+||googlesyndication.com^
+||doubleclick.net^
+||googleadservices.com^
+||googletagservices.com^
+||adm.shinobi.jp^
+||spstatic.ameba.jp/js/a.js^
+||spstatic.ameba.jp/js/d.js^
+||amoad.com^
+||amazoo.longseller.org^
+||adsp.i2idata.com^
+||rc4.i2i.jp/bin/get.x^
+||ebis.ne.jp^
+||medibaad.com^
+! total: 59
