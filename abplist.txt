@@ -1,11 +1,13 @@
 [Adblock Plus 1.1]
 ! Homepage: http://gmbk0.tumblr.com/
-! Last modified: 06 May 2013 13:42 UTC
+! Last modified: 08 May 2013 10:36 UTC
 ! Expires: 4 days
 ! Title: gmbk'sスマホ用フィルタ
 !
-/[\/_](?:sp)?ad(?:s|v[ert]*)?[\/_.-]/
-/[\/_]analytics[\/_.]/
+/[\/_?&-](?:sp|google|page)?ad(?:sense|v[ert]*(?:ise(?:ment)?)?|js)?s?\d*[\/_.?=-]/
+/[\/_?&-]analy(?:tics|sis|s|zer?)?[\/_.?=-]/
+/[\/_?&-]beacons?[\/_.?=-]/
+/[\/_?&-]aff(?:iliates?(?:id)?|id)[\/_.?=-]/
 ##.ad
 ##.ads
 ##.spads
@@ -50,6 +52,8 @@
 ||www.access-kaiseki-tools.com^
 ||uploader.asia^
 ||yountunbe.com^
+||manmanco.info^
+||upupimg.com^
 ||red.st-hatena.com/ad^
 ||ai.yimg.jp/bdv/yahoo/javascript/
 ||yjaxc.yahoo.co.jp/oi^
@@ -84,4 +88,4 @@
 ||tumblr.com/impixu^
 ||medibaad.com^
 ||d.exit-ad.com^
-! total: 80
+! total: 84
