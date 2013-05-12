@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Homepage: http://gmbk0.tumblr.com/
-! Last modified: 08 May 2013 10:36 UTC
+! Last modified: 12 May 2013 16:00 UTC
 ! Expires: 4 days
 ! Title: gmbk'sスマホ用フィルタ
 !
@@ -88,4 +88,6 @@
 ||tumblr.com/impixu^
 ||medibaad.com^
 ||d.exit-ad.com^
-! total: 84
+||img1.rankan.net^
+##a[href^="http://img1.rankan.net/links/"]
+! total: 86
