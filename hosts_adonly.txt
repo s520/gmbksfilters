@@ -1,6 +1,6 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 23 May 2013 19:07 UTC
+# Last modified: 26 May 2013 18:18 UTC
 # Licence : http://creativecommons.org/publicdomain/zero/1.0/
 #
 0.0.0.0 a.adimg.net
@@ -38,6 +38,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pix04.revsci.net
+0.0.0.0 public.astrsk.net
 0.0.0.0 rcm-jp.amazon.co.jp
 0.0.0.0 redirect.mcgate.jp
 0.0.0.0 sh.adingo.jp
@@ -54,4 +55,4 @@
 0.0.0.0 track.bannerbridge.net
 0.0.0.0 www.assoc-amazon.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
-# total: 51
+# total: 52
