@@ -1,6 +1,6 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 16 Jun 2013 05:57 UTC
+# Last modified: 16 Jun 2013 06:14 UTC
 # Licence : http://creativecommons.org/publicdomain/zero/1.0/
 #
 0.0.0.0 a.adimg.net
@@ -31,6 +31,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 h.accesstrade.net
 0.0.0.0 hbb.afl.rakuten.co.jp
+0.0.0.0 i.w.inmobi.com
 0.0.0.0 j.amoad.com
 0.0.0.0 j.sprout-ad.com
 0.0.0.0 js.ad-stir.com
@@ -38,6 +39,7 @@
 0.0.0.0 js1.nend.net
 0.0.0.0 m.one.impact-ad.jp
 0.0.0.0 media-b.jp
+0.0.0.0 media.admob.com
 0.0.0.0 n4061ad.jp.doubleclick.net
 0.0.0.0 netad.access-company.com
 0.0.0.0 op20.searchteria.co.jp
@@ -63,4 +65,4 @@
 0.0.0.0 www.assoc-amazon.jp
 0.0.0.0 www.google-analytics.com
 0.0.0.0 xml.affiliate.rakuten.co.jp
-# total: 60
+# total: 62
