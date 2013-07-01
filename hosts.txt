@@ -1,6 +1,6 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 26 Jun 2013 14:26 UTC
+# Last modified: 01 Jul 2013 14:56 UTC
 # Licence : http://creativecommons.org/publicdomain/zero/1.0/
 #
 0.0.0.0 a.adimg.net
@@ -14,13 +14,18 @@
 0.0.0.0 adf.send.microad.jp
 0.0.0.0 adm.shinobi.jp
 0.0.0.0 ads.adlayout.net
+0.0.0.0 ads.mopub.com
 0.0.0.0 adsp.i2idata.com
 0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 amazoo.longseller.org
 0.0.0.0 analysis.shinobi.jp
 0.0.0.0 api.ad-stir.com
+0.0.0.0 api.geo.kontagent.net
 0.0.0.0 api.unthem.com
+0.0.0.0 api2.playhaven.com
+0.0.0.0 apis-urls.metaps.net
+0.0.0.0 appdriver.jp
 0.0.0.0 as.a.bypass.jp
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 counter2.blog.livedoor.com
@@ -30,6 +35,7 @@
 0.0.0.0 dist.ad-stir.com
 0.0.0.0 ds.advg.jp
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 gyro.appdriver.jp
 0.0.0.0 h.accesstrade.net
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 i.w.inmobi.com
@@ -38,18 +44,21 @@
 0.0.0.0 js.ad-stir.com
 0.0.0.0 js.kau.li
 0.0.0.0 js1.nend.net
+0.0.0.0 m.appang.kr
 0.0.0.0 m.one.impact-ad.jp
 0.0.0.0 media-b.jp
 0.0.0.0 media.admob.com
 0.0.0.0 n4061ad.jp.doubleclick.net
 0.0.0.0 netad.access-company.com
 0.0.0.0 op20.searchteria.co.jp
+0.0.0.0 p.appbrain.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pix04.revsci.net
 0.0.0.0 public.astrsk.net
 0.0.0.0 rcm-jp.amazon.co.jp
 0.0.0.0 redirect.mcgate.jp
+0.0.0.0 reward.gree.net
 0.0.0.0 sh.adingo.jp
 0.0.0.0 sp.ad.adlantis.jp
 0.0.0.0 sp.adingo.jp.eimg.jp
@@ -57,6 +66,7 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spapi.i-mobile.co.jp
 0.0.0.0 spdeliverp.i-mobile.co.jp
+0.0.0.0 sponsorpay.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.adlantis.jp
 0.0.0.0 static.affiliate.rakuten.co.jp
@@ -66,4 +76,4 @@
 0.0.0.0 www.assoc-amazon.jp
 0.0.0.0 www.google-analytics.com
 0.0.0.0 xml.affiliate.rakuten.co.jp
-# total: 63
+# total: 73

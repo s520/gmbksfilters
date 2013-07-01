@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Homepage: http://gmbk0.tumblr.com/
 ! Licence: http://creativecommons.org/publicdomain/zero/1.0/
-! Last modified: 26 Jun 2013 14:26 UTC
+! Last modified: 01 Jul 2013 14:56 UTC
 ! Expires: 4 days
 ! Title: gmbk'sスマホ用フィルタ
 !
@@ -22,6 +22,15 @@
 ||netad.access-company.com^
 ||inmobi.com^
 ||admob.com^
+||appdriver.jp^
+||reward.gree.net^
+||metaps.net^
+||appbrain.com^
+||appang.kr^
+||playhaven.com^
+||kontagent.net^
+||service.sponsorpay.com^
+||mopub.com^
 ||affiliate.rakuten.co.jp^
 ||nend.net^
 ||i-mobile.co.jp^
@@ -76,4 +85,4 @@
 ##a[href^="http://img1.rankan.net/links/"]
 ||astrsk.net^
 ||media-rep.com^
-! total: 71
+! total: 80
