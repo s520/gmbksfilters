@@ -1,6 +1,6 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 01 Jul 2013 14:56 UTC
+# Last modified: 09 Aug 2013 08:07 UTC
 # Licence : http://creativecommons.org/publicdomain/zero/1.0/
 #
 0.0.0.0 a.adimg.net
@@ -18,7 +18,9 @@
 0.0.0.0 alog.umeng.com
 0.0.0.0 amazoo.longseller.org
 0.0.0.0 api.ad-stir.com
+0.0.0.0 api.app-c.net
 0.0.0.0 api.unthem.com
+0.0.0.0 api1.4-fusion.com
 0.0.0.0 api2.playhaven.com
 0.0.0.0 apis-urls.metaps.net
 0.0.0.0 appdriver.jp
@@ -42,6 +44,7 @@
 0.0.0.0 m.one.impact-ad.jp
 0.0.0.0 media-b.jp
 0.0.0.0 media.admob.com
+0.0.0.0 mob.adwhirl.com
 0.0.0.0 n4061ad.jp.doubleclick.net
 0.0.0.0 netad.access-company.com
 0.0.0.0 op20.searchteria.co.jp
@@ -68,4 +71,4 @@
 0.0.0.0 track.bannerbridge.net
 0.0.0.0 www.assoc-amazon.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
-# total: 65
+# total: 68

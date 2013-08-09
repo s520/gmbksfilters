@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Homepage: http://gmbk0.tumblr.com/
 ! Licence: http://creativecommons.org/publicdomain/zero/1.0/
-! Last modified: 01 Jul 2013 14:56 UTC
+! Last modified: 09 Aug 2013 08:07 UTC
 ! Expires: 4 days
 ! Title: gmbk'sスマホ用フィルタ
 !
@@ -85,4 +85,6 @@
 ##a[href^="http://img1.rankan.net/links/"]
 ||astrsk.net^
 ||media-rep.com^
-! total: 80
+||adwhirl.com^
+||4-fusion.com^
+! total: 82
