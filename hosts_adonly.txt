@@ -1,11 +1,10 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 16 Feb 2014 08:14 UTC
+# Last modified: 07 Feb 2014 05:40 UTC
 # Licence : http://creativecommons.org/publicdomain/zero/1.0/
 #
 0.0.0.0 a.adimg.net
 0.0.0.0 a.iogous.com
-0.0.0.0 ad-stir.com
 0.0.0.0 ad1.nend.net
 0.0.0.0 ad2.nend.net
 0.0.0.0 adc.media-rep.com
@@ -79,4 +78,4 @@
 0.0.0.0 www.assoc-amazon.jp
 0.0.0.0 xml.affiliate.rakuten.co.jp
 0.0.0.0 yads.yahoo.co.jp
-# total: 76
+# total: 75
