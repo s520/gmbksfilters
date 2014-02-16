@@ -1,0 +1,5 @@
+[Adblock Plus 1.1]
+! Homepage: http://gmbk0.tumblr.com/
+! Expires: 4 days
+! Title: Empty filter
+!
