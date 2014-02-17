@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
+! Title: gmbkslist
 ! Homepage: http://gmbk0.tumblr.com/
-! Licence: public domain
-! Last modified: 17 Feb 2014 00:01 UTC
 ! Expires: 4 days
-! Title: gmbk'sスマホ用フィルタ
+! Licence: public domain
+! Last modified: 17 Feb 2014 00:48 UTC
 !
 /[\/_?&-](?:sp|google|page)?ad(?:sense|v[ert]*(?:ise(?:ment)?)?|js)?s?\d*[\/_.?=-]/
 /[\/_?&-]analy(?:tics|sis|s|zer?)?[\/_.?=-]/
