@@ -1,6 +1,6 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 17 Feb 2014 00:48 UTC
+# Last modified: 07 May 2014 15:14 UTC
 # Licence : public domain
 #
 127.0.0.1 a.adimg.net

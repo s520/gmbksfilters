@@ -3,7 +3,7 @@
 ! Homepage: http://gmbk0.tumblr.com/
 ! Expires: 4 days
 ! Licence: public domain
-! Last modified: 17 Feb 2014 00:48 UTC
+! Last modified: 07 May 2014 15:14 UTC
 !
 /[\/_?&-](?:sp|google|page)?ad(?:sense|v[ert]*(?:ise(?:ment)?)?|js)?s?\d*[\/_.?=-]/
 /[\/_?&-]analy(?:tics|sis|s|zer?)?[\/_.?=-]/
@@ -110,4 +110,5 @@
 ||s.tabelog.com/smartphone/restaurant_detail/ajax_contents/?rcd=
 ||yads.yahoo.co.jp^
 @@||auctions.c.yimg.jp^
-! total: 105
+|https://stats.anscamobile.com/analytics.php^
+! total: 106

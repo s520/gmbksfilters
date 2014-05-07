@@ -1,6 +1,6 @@
 # AdAway用hostsファイル
 # Homepage: http://gmbk0.tumblr.com/
-# Last modified: 17 Feb 2014 00:48 UTC
+# Last modified: 07 May 2014 15:14 UTC
 # Licence : public domain
 #
 127.0.0.1 a.adimg.net
@@ -80,6 +80,7 @@
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 static.adlantis.jp
 127.0.0.1 static.affiliate.rakuten.co.jp
+127.0.0.1 stats.anscamobile.com
 127.0.0.1 sync.fout.jp
 127.0.0.1 tr.adplatform.jp
 127.0.0.1 track.bannerbridge.net
@@ -87,4 +88,4 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 xml.affiliate.rakuten.co.jp
 127.0.0.1 yads.yahoo.co.jp
-# total: 84
+# total: 85
